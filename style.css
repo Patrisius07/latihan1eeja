@@ -135,6 +135,26 @@ button:hover {
 	margin-top: 30px;
 }
 
+footer {
+    color: black;
+    text-align: center;
+    padding: 15px;
+    margin-top: 25px;
+    border-radius: 8px;
+}
+
+footer p {
+	text-align: center;
+    margin: 8px 0;
+    font-size: 14px;
+}
+
+footer p:last-child {
+	text-align: center;
+    font-weight: bold;
+}
+
+
 .grid-informasi{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
